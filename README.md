@@ -6,5 +6,5 @@
 Дата изменения документа - дата создания его и приступления к работе.
 
 Согласие основателя компании "BrainStudio"
-![Image]([https://cdn.pterodactyl.io/site-assets/pterodactyl_v1_demo.gif](https://sun9-88.userapi.com/impg/9nZht6bQaUtSd17SDCLQSiJ9xHDP0xBN7DlZ_A/3nva1iKrpM8.jpg?size=407x61&quality=96&sign=02767c05c0c7983cc1ee064d931c7453&type=album))
 
+![Image](https://sun9-88.userapi.com/impg/9nZht6bQaUtSd17SDCLQSiJ9xHDP0xBN7DlZ_A/3nva1iKrpM8.jpg?size=407x61&quality=96&sign=02767c05c0c7983cc1ee064d931c7453&type=album)
